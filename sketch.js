@@ -13,6 +13,3 @@ function draw() {
   fill(253, 240, 213,50);
 ellipse(mouseX,mouseY,d,d);
 }
-git add .
-  git commit -m "Update"
-git push origin main
